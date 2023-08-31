@@ -14,4 +14,4 @@ git clone https://github.com/hasan08122020108181818/updatenewtool
 
 cd updatenewtool
 
-python2 toolteamme.py
+python2 ddosteamme.py
