@@ -10,8 +10,8 @@ apt-get install python2
 
 apt-get install git
 
-git clone https://github.com/hasan08122020108181818/toolnewsuimebyme
+git clone https://github.com/hasan08122020108181818/updatenewtool
 
-cd toolnewsuimebyme
+cd updatenewtool
 
-python2 ddos-Me-sui
+python2 toolteamme.py
